@@ -1,0 +1,6 @@
+.build-venv/
+build/
+dist/
+*.spec
+spoutyPreview.exe
+__pycache__/
